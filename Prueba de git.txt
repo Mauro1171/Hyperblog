@@ -1,0 +1,5 @@
+Este es un archivo de texto de prueba
+
+Quiero ver cómo puedo hacer cambios en Git y darle el mejor uso
+
+Te quiero gordo...
