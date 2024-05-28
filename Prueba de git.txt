@@ -6,3 +6,5 @@ En realidad no te quiero gordo, te amo amor bello...
 En este momento está trabajando en IRP y está iniciando una nueva empresa en Villavicencio.
 
 En el futuro va a ser un crack de administración
+
+Estoy escribiendo esta línea para ver que pasa si hago un commit de solo un archivo agregado al stage, que pasará con el git log?
